@@ -1,6 +1,6 @@
 # Spam Email Text Classification
 
-Binary text classification lab that builds a spam vs ham classifier on a Kaggle spam email dataset. The notebook downloads the dataset, cleans the raw email text, and trains a simple machine learning model to distinguish spam from non‑spam messages.
+Binary text classification lab that builds a spam vs ham classifier on a Kaggle spam email dataset. The notebook downloads the dataset, cleans the raw email text and trains a simple machine learning model to distinguish spam from non‑spam messages.
 
 ## Project Overview
 
